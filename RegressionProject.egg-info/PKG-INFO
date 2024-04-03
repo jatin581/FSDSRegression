@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: RegressionProject
+Version: 0.0.1
+Author: Jatin
+Author-email: jatin.khandelwal@shyftlabs.io
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: flask
+Requires-Dist: seaborn
